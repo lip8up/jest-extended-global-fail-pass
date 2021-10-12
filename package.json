@@ -1,8 +1,9 @@
 {
   "name": "jest-extended-global-fail-pass",
-  "version": "1.6.6",
+  "version": "1.6.8",
   "description": "use jest extended fail & pass global instead of expect(1).fail & expect(1).pass",
   "main": "setup.js",
+  "types": "setup.d.ts",
   "repository": "git@github.com:lip8up/jest-extended-global-fail-pass.git",
   "author": "lip8up <lip8up@qq.com>",
   "license": "MIT",
